@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi! I’m a B.Tech first-year student at Maharishi Markandeshwar (Deemed to be University). I’m passionate about coding and technology, and I’m currently learning Data Structures and Algorithms (DSA) in C++. I enjoy solving problems and building a strong foundation in programming.
+I am a first-year student passionate about programming, development, and exploring the world of technology. Currently building a strong foundation in computer science, I enjoy solving problems and creating innovative projects.
+
+My interests include:
+🔹 Data Structures and Algorithms
+🔹 Machine Learning
+🔹 Learning new tools and technologies
+
+I am eager to connect, learn, and collaborate with like-minded individuals to grow and contribute to the tech community. Let's create something impactful together!
 
 
 ## 🌐 Socials:
