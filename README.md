@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year student passionate about programming, development, and exploring the world of technology. Currently building a strong foundation in computer science, I enjoy solving problems and creating innovative projects.
+I am a second-year student passionate about programming, development, and exploring the world of technology. Currently building a strong foundation in computer science, I enjoy solving problems and creating innovative projects.
 
 My interests include:
 🔹 Data Structures and Algorithms
