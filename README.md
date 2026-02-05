@@ -3,7 +3,7 @@ I am a second-year student passionate about programming, development, and explor
 
 My interests include:
 🔹 Data Structures and Algorithms
-🔹 Machine Learning
+🔹 Web Development
 🔹 Learning new tools and technologies
 
 I am eager to connect, learn, and collaborate with like-minded individuals to grow and contribute to the tech community. Let's create something impactful together!
