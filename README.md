@@ -1,5 +1,6 @@
 # 💫 About Me:
 I’m a computer science student who enjoys turning ideas into working applications. Most of my time goes into building projects, understanding how systems work behind the scenes, and improving my problem-solving approach. I like learning by doing, breaking things, fixing them, and growing with every project.
+
 </br>
 
 # 🌐 Socials:
