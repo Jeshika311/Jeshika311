@@ -1,13 +1,5 @@
 # 💫 About Me:
-I am a second-year student passionate about programming, development, and exploring the world of technology. Currently building a strong foundation in computer science, I enjoy solving problems and creating innovative projects.
-
-My interests include:
-🔹 Data Structures and Algorithms
-🔹 Web Development
-🔹 Learning new tools and technologies
-
-I am eager to connect, learn, and collaborate with like-minded individuals to grow and contribute to the tech community. Let's create something impactful together!
-
+I’m a computer science student who enjoys turning ideas into working applications. Most of my time goes into building projects, understanding how systems work behind the scenes, and improving my problem-solving approach. I like learning by doing, breaking things, fixing them, and growing with every project.
 </br>
 
 # 🌐 Socials:
