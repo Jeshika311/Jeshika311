@@ -15,7 +15,7 @@ I’m a computer science student who enjoys turning ideas into working applicati
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jeshika311&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jeshika311&theme=radical&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jeshika311&theme=rose_pine&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff" width="49%" /> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeshika311&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </br>
