@@ -6,7 +6,9 @@
 - 🏆 Secured Top 10 in NEXUS, a prestigious national-level competition organized by **IIT (ISM) Dhanbad** and **NIT Tiruchirappalli**  
 - 🌍 Finalist at AI for Sustainability Hackathon, organized by **Canadian University Dubai**  
 
-- 🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/  
+- 🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeshika311&label=Profile%20views&color=0e75b6&style=flat" alt="Jeshika311" /> </p>
 
 </br>
 
