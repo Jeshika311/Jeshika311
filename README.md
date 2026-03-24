@@ -1,9 +1,16 @@
 # 💫 About Me:
-I’m a computer science student who enjoys turning ideas into working applications. Most of my time goes into building projects, understanding how systems work behind the scenes, and improving my problem-solving approach. I like learning by doing, breaking things, fixing them, and growing with every project.
+💡 Passionate Full Stack Developer focused on building real-world solutions and continuously improving problem-solving skills.
+- 🎓 Pursuing Bachelor of Technology (B.Tech)  
+- 💻 Full Stack Developer with focus on scalable and efficient solutions
+- 🧠 Strong foundation in C++ & DSA
+- 🏆 Secured Top 10 in NEXUS, a prestigious national-level inter-institutional competition jointly organized by **IIT (ISM) Dhanbad** and **NIT Tiruchirappalli**  
+- 🌍 Finalist at AI for Sustainability Hackathon, organized by **Canadian University Dubai**  
+
+- 🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/  
 
 </br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@jeshika31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeshikasharma07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeshika-sharma-5664b1322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeshikasharma7@gmail.com) 
 
 </br>
