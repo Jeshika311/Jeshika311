@@ -3,7 +3,7 @@
 - 🎓 Pursuing Bachelor of Technology (B.Tech)  
 - 💻 Full Stack Developer with focus on scalable and efficient solutions
 - 🧠 Strong foundation in C++ & DSA
-- 🏆 Secured Top 10 in NEXUS, a prestigious national-level inter-institutional competition jointly organized by **IIT (ISM) Dhanbad** and **NIT Tiruchirappalli**  
+- 🏆 Secured Top 10 in NEXUS, a prestigious national-level competition organized by **IIT (ISM) Dhanbad** and **NIT Tiruchirappalli**  
 - 🌍 Finalist at AI for Sustainability Hackathon, organized by **Canadian University Dubai**  
 
 - 🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/  
