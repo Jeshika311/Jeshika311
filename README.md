@@ -15,9 +15,9 @@
 - 📊 Built a **Capstone Project** under *Summer Analytics 2025*, IIT Guwahati  
 - 🚀 Participated in **25+ national & international hackathons**, including events associated with Goldsmiths, University of London and Canadian University Dubai  
 
-- 🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/
+🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeshika311&label=Profile%20views&color=0e75b6&style=flat" alt="Jeshika311" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeshika311&label=Profile%20views&color=0e75b6&style=flat" alt="Jeshika311" /> </p>
 
 </br>
 
