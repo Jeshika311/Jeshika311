@@ -1,10 +1,19 @@
-# 💫 About Me:
-💡 Passionate Full Stack Developer focused on building real-world solutions and continuously improving problem-solving skills.
-- 🎓 Pursuing Bachelor of Technology (B.Tech)  
-- 💻 Full Stack Developer with focus on scalable and efficient solutions
-- 🧠 Strong foundation in C++ & DSA
-- 🏆 Secured Top 10 in NEXUS, a prestigious national-level competition organized by **IIT (ISM) Dhanbad** and **NIT Tiruchirappalli**  
-- 🌍 Finalist at AI for Sustainability Hackathon, organized by **Canadian University Dubai**  
+## 👋 About Me
+
+💡 Passionate Full Stack Developer focused on building real-world solutions and continuously improving problem-solving skills  
+
+🎓 Pursuing Bachelor of Technology (B.Tech)  
+
+💻 Skilled in Full Stack Development with a focus on scalable and efficient applications  
+
+📊 Strong foundation in C++ and Data Structures & Algorithms  
+
+🏆 Achievements:
+- 🥈 **1st Runner-Up** in *CodeRush*, organized in collaboration with MMDU and ByteXL  
+- 🏅 Secured **Top 10** in *NEXUS*, a national-level competition organized by IIT (ISM) Dhanbad and NIT Tiruchirappalli  
+- 🌍 **Semi-Global Finalist** in a competition conducted by Consulting and Analytics Club, IIT Guwahati  
+- 📊 Built a **Capstone Project** under *Summer Analytics 2025*, IIT Guwahati  
+- 🚀 Participated in **25+ national & international hackathons**, including events associated with Goldsmiths, University of London and Canadian University Dubai  
 
 - 🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/
 
