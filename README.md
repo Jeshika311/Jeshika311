@@ -11,7 +11,7 @@
 🏆 Achievements:
 - 🥈 **1st Runner-Up** in *CodeRush*, organized in collaboration with MMDU and ByteXL  
 - 🏅 Secured **Top 10** in *NEXUS*, a national-level competition organized by IIT (ISM) Dhanbad and NIT Tiruchirappalli  
-- 🌍 **Semi-Global Finalist** in a competition conducted by Consulting and Analytics Club, IIT Guwahati  
+- 🌍 Semi-Global Finalist in a competition conducted by Consulting and Analytics Club, IIT Guwahati  
 - 📊 Built a **Capstone Project** under *Summer Analytics 2025*, IIT Guwahati  
 - 🚀 Participated in **25+ national & international hackathons**, including events associated with Goldsmiths, University of London and Canadian University Dubai  
 
