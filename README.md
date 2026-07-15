@@ -1,19 +1,21 @@
 ## 👋 About Me
 
-💡 Passionate Full Stack Developer focused on building real-world solutions and continuously improving problem-solving skills  
+💡 Backend-Focused MERN Stack Developer passionate about building scalable, secure, and real-world web applications  
 
-🎓 Pursuing Bachelor of Technology (B.Tech)  
+🎓 Pursuing Bachelor of Technology (B.Tech) in Computer Science & Engineering  
 
-💻 Skilled in Full Stack Development with a focus on scalable and efficient applications  
+💻 Experienced in building full-stack applications with REST APIs, real-time features, authentication, payments, and third-party integrations  
 
 📊 Strong foundation in C++ and Data Structures & Algorithms  
 
-🏆 Achievements:
+🤝 Google Student Ambassador 2026 | Microsoft Student Ambassador 2026 | GSSoC'26 Open Source Contributor  
+
+🏆 **Achievements:**
+- 🌟 **GSSoC'26:** Merged **21 Pull Requests** across **4 open-source projects**, achieved **Global Rank #718**, ranked in the **Top 2% among 43,000+ participants**, and earned **12 badges**
 - 🥈 **1st Runner-Up** in *CodeRush*, organized in collaboration with MMDU and ByteXL  
 - 🏅 Secured **Top 10** in *NEXUS*, a national-level competition organized by IIT (ISM) Dhanbad and NIT Tiruchirappalli  
-- 🌍 Semi-Global Finalist in a competition conducted by Consulting and Analytics Club, IIT Guwahati  
-- 📊 Built a **Capstone Project** under *Summer Analytics 2025*, IIT Guwahati  
-- 🚀 Participated in **25+ national & international hackathons**, including events associated with Goldsmiths, University of London and Canadian University Dubai  
+- 🌍 Semi-Global Finalist in a competition conducted by the Consulting and Analytics Club, IIT Guwahati  
+- 🚀 Participated in **25+ national & international hackathons**, including events associated with Goldsmiths, University of London and Canadian University Dubai 
 
 🔗 Live Portfolio: https://my-portfolio-jeshika311s-projects.vercel.app/
 
