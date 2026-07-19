@@ -35,8 +35,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 
----
-
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -47,8 +45,6 @@
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=plastic&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=black)
 
----
-
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
@@ -56,25 +52,17 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=plastic&logo=socketdotio&logoColor=white)
 
----
-
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-
----
 
 ### ☁️ Cloud & Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=plastic&logo=razorpay&logoColor=white)
 
----
-
 ### 🚀 Deployment
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
-
----
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
