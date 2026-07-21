@@ -11,7 +11,7 @@
 🤝 Google Student Ambassador 2026 | Microsoft Student Ambassador 2026 | GSSoC'26 Open Source Contributor  
 
 🏆 **Achievements:**
-- 🌟 **GSSoC'26:** Merged **21 Pull Requests** across **4 open-source projects**, achieved **Global Rank #718**, ranked in the **Top 2% among 43,000+ participants**, and earned **12 badges**
+- 🌟 **GSSoC'26:** Merged **21 Pull Requests** across **4 open-source projects**, achieved **Global Rank #746**, ranked in the **Top 2% among 43,000+ participants**, and earned **12 badges**
 - 🥈 **1st Runner-Up** in *CodeRush*, organized in collaboration with MMDU and ByteXL  
 - 🏅 Secured **Top 10** in *NEXUS*, a national-level competition organized by IIT (ISM) Dhanbad and NIT Tiruchirappalli  
 - 🌍 Semi-Global Finalist in a competition conducted by the Consulting and Analytics Club, IIT Guwahati  
