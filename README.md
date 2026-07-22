@@ -4,7 +4,7 @@
 
 🎓 Pursuing Bachelor of Technology (B.Tech) in Computer Science & Engineering  
 
-💻 Experienced in building full-stack applications with REST APIs, real-time features, authentication, payments, and third-party integrations  
+💻 Building production-ready MERN applications with REST APIs, authentication, real-time features, and cloud integrations
 
 📊 Strong foundation in C++ and Data Structures & Algorithms  
 
