@@ -8,7 +8,7 @@
 
 📊 Strong foundation in C++ and Data Structures & Algorithms  
 
-🤝 Google Student Ambassador 2026 | Microsoft Student Ambassador 2026 | GSSoC'26 Open Source Contributor  
+🤝 Google Student Ambassador 2026 | Microsoft Student Ambassador 2026 | Unstop Campus Champion 2026 | GSSoC'26 Open Source Contributor  
 
 🏆 **Achievements:**
 - 🌟 **GSSoC'26:** Merged **21 Pull Requests** across **4 open-source projects**, achieved **Global Rank #746**, ranked in the **Top 2% among 43,000+ participants**, and earned **12 badges**
